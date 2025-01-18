@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master's degree in Data S
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on building Deep Learning Models(#), identification and application of Model Compression techniques(#) for Federated Learning(#), for my thesis.
+- 🔭 🔭 I’m currently working on building Deep Learning Models(#), identification and application of Model Compression techniques(#) for Federated Learning(#), for my thesis.
 - 🌱 I'm actively learning more about [cloud platforms like Google Cloud and Azure](#), [NLP](#), and [automated model deployment](#).
 - 👯 I'm looking to collaborate on projects involving machine learning, data analytics, or cloud-based solutions.
 - 🤔 I’m currently looking for help with [exploring deeper into data governance](#) and enhancing model interpretability.
