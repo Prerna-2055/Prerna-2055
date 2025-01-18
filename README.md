@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master's degree in Data S
 - 👯 I'm looking to collaborate on projects involving machine learning, data analytics, or cloud-based solutions.
 - 🤔 I’m currently looking for help with [exploring deeper into data governance](#) and enhancing model interpretability.
 - 💬 Feel free to ask me about any of the work I've done or anything related to machine learning, cloud, and data analytics.
-- 📫 How to reach me: You can connect with me via [LinkedIn](#) or [Email](#).
+- 📫 How to reach me: You can connect with me via LinkedIn.
 - ⚡ Fun fact: I once reduced customer complaint handling time by 20% using NLP algorithms. I’m always excited to solve complex problems with data!
 
 ---
