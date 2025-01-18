@@ -71,5 +71,5 @@ Welcome to my GitHub profile! I'm currently pursuing a Master's degree in Data S
 
 Feel free to browse through my repositories, check out my work, or reach out to discuss potential collaborations! You can also follow me for updates on new projects. 
 
-[LinkedIn](www.linkedin.com/in/prerna2055) 
+[LinkedIn: www.linkedin.com/in/prerna2055]
 
